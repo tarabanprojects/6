@@ -1,10 +1,10 @@
 """
-projekt_1.py: první projekt do  Engeto Online  Python Akademie
+Projekt_Textovy_analyzator.py: první projekt v Pythonu
   
 author: Igor  Taraban
 e-mail: taraban@centrum.cz
-discord: igort2408     - PROSIM  odpoved  poslat na e-mail ! Děkuji moc ! 
-                            DISCORD ... moc  nefunguji ! Děkuji moc ! 
+PROSIM  odpoved  poslat na e-mail ! Děkuji moc ! 
+                          
 """
 
 TEXTS = ['''
